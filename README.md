@@ -1,5 +1,7 @@
 # ZipCracker
 
+<img src="screenshot.png"/>
+
 **ZipCracker** is a simple but powerful password brute-force utility for cracking password-protected ZIP archives.  
 It’s built with Qt and integrates a custom cracking engine, providing both CLI and GUI support.
 
